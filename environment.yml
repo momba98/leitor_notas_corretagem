@@ -6,6 +6,5 @@ dependencies:
   - pip
   - pip:
     - tabula
-    - tkinter
     - pandas
     - PIL
